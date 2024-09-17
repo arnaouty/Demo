@@ -449,7 +449,7 @@ body.swal2-shown {
 }
 
 .metadata .category {
-    color: #001f3f;
+    color: #164867;
     font-family: Archivo,sans-serif;
     font-weight: 600
 }
@@ -479,7 +479,7 @@ body.swal2-shown {
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background: #001f3f;
+    background: #164867;
     color: #fff;
     -webkit-transition: .3s ease-in-out;
     -o-transition: .3s ease-in-out;
@@ -556,7 +556,7 @@ input[type=checkbox]+label .icon {
     -webkit-transform: rotate(270deg);
     -ms-transform: rotate(270deg);
     transform: rotate(270deg);
-    color: #001f3f;
+    color: #164867;
     font-size: 24px;
     line-height: 24px
 }
@@ -651,7 +651,7 @@ input[type=checkbox]+label .icon {
 }
 
 .tags_item:focus,.tags_item:hover {
-    border-color: #001f3f;
+    border-color: #164867;
     -webkit-transform: scale(.9);
     -ms-transform: scale(.9);
     transform: scale(.9)
@@ -679,8 +679,8 @@ input[type=checkbox]+label .icon {
     justify-content: center;
     width: 40px;
     height: 40px;
-    border: 1px solid #001f3f;
-    color: #001f3f;
+    border: 1px solid #164867;
+    color: #164867;
     font-size: 16px;
     border-radius: 50%;
     background-color: transparent;
@@ -690,7 +690,7 @@ input[type=checkbox]+label .icon {
 }
 
 .swiper-controls .swiper-button:focus,.swiper-controls .swiper-button:hover {
-    background-color: #001f3f;
+    background-color: #164867;
     color: #fff
 }
 
@@ -741,11 +741,11 @@ input[type=checkbox]+label .icon {
 }
 
 .swiper-pagination-bullet-active {
-    background: #001f3f
+    background: #164867
 }
 
 .swiper-pagination-bullet-active:after {
-    border-color: #001f3f
+    border-color: #164867
 }
 
 .highlight {
@@ -753,7 +753,7 @@ input[type=checkbox]+label .icon {
 }
 
 .primary-bg {
-    background: #001f3f;
+    background: #164867;
     color: #fff
 }
 
@@ -789,9 +789,9 @@ input[type=checkbox]+label .icon {
     -webkit-transform: translateY(-50%) translateX(-50%);
     -ms-transform: translateY(-50%) translateX(-50%);
     transform: translateY(-50%) translateX(-50%);
-    border: 2px solid #001f3f;
+    border: 2px solid #164867;
     border-radius: 50%;
-    color: #001f3f;
+    color: #164867;
     font-size: 24px
 }
 
@@ -1437,7 +1437,7 @@ input[type=checkbox]+label .icon {
 
 .alert_popup-title {
     font-family: Archivo,sans-serif;
-    color: #001f3f!important;
+    color: #164867!important;
     padding: 30px 30px 0
 }
 
@@ -1581,7 +1581,7 @@ html[dir=rtl] #scrollTrigger {
 }
 
 .header.opened,.header.sticky {
-    background-color: #001f3f
+    background-color: #164867
 }
 
 .header--pinned {
@@ -1828,7 +1828,7 @@ html[dir=rtl] #scrollTrigger {
 
     .header_nav-list .dropdown-list {
         margin: 0;
-        background-color: #001f3f;
+        background-color: #164867;
         padding: 20px
     }
 
@@ -1904,7 +1904,7 @@ html[dir=rtl] #scrollTrigger {
 }
 
 .hero_header .text {
-    text-shadow: 0 0 5px #001f3f
+    text-shadow: 0 0 5px #164867
 }
 
 .hero_main {
@@ -2345,15 +2345,15 @@ html[dir=rtl] #scrollTrigger {
 }
 
 .features_card--alt .wrapper:hover {
-    border-color: #001f3f
+    border-color: #164867
 }
 
 .features_card--alt .features_card-icon * {
-    fill: #001f3f
+    fill: #164867
 }
 
 .features_card--alt .features_card-description {
-    color: #001f3f
+    color: #164867
 }
 
 @media screen and (min-width:767.98px) {
@@ -3304,7 +3304,7 @@ html[dir=rtl] .faq_accordion-item .trigger {
 
 .footer_secondary .socials_item-link {
     background: #ffc631;
-    color: #001f3f
+    color: #164867
 }
 
 html[dir=rtl] .footer_main-block_nav .list-item .link .icon {
