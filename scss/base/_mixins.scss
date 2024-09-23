@@ -50,6 +50,21 @@
     font-weight: 600;
 }
 
+
+@mixin gothExtra() {
+    font-family: "Gotham", sans-serif;
+    font-weight: 800;
+}
+
+@mixin archBold() {
+    font-family: "Gotham", sans-serif;
+    font-weight: 700;
+}
+
+@mixin archSemi() {
+    font-family: "Gotham", sans-serif;
+    font-weight: 600;
+}
 @mixin cover() {
     position: absolute;
     top: 0;

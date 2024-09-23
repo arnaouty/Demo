@@ -747,7 +747,9 @@ input[type=checkbox] {
     .swiper-pagination-bullet-active:after {
         border-color: #164867;
     }
-
+.brand.span.highlight {
+    color: #ffffff;
+}
 .highlight {
     color: #419780;
 }
@@ -2163,7 +2165,7 @@ html[dir=rtl] #scrollTrigger {
 
 @media screen and (min-width:1279.98px) {
     .hero {
-        padding: 180px 0 0;
+        padding: 280px 0 0;
     }
 
     .hero_deco {
