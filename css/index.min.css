@@ -1232,7 +1232,7 @@ input[type=checkbox] {
         }
 
     .projects_list {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(3, 1fr);
     }
 
     .projects_list-item {
