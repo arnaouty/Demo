@@ -486,7 +486,7 @@ h6 {
 
         .metadata .author .link:hover,
         .metadata .category:hover {
-            color: #0da574;
+            color: #419780;
         }
 
 .socials {
@@ -532,7 +532,7 @@ input[type="checkbox"] {
 }
 
     input[type="checkbox"]:checked + label .icon {
-        color: #0da574;
+        color: #419780;
     }
 
     input[type="checkbox"] + label {
@@ -623,7 +623,7 @@ input[type="checkbox"] {
     text-transform: uppercase;
     font-size: 18px;
     line-height: 1;
-    color: #0da574;
+    color: #419780;
     letter-spacing: 1px;
     font-family: Archivo, sans-serif;
     font-weight: 600;
@@ -784,7 +784,7 @@ input[type="checkbox"] {
     }
 
 .highlight {
-    color: #0da574;
+    color: #419780;
 }
 
 .primary-bg {
@@ -988,7 +988,7 @@ input[type="checkbox"] {
 
     .blog_feed-item .main_title .icon {
         margin-top: 5px;
-        color: #0da574;
+        color: #419780;
     }
 
 .blog_feed-item .main_text {
@@ -1083,7 +1083,7 @@ input[type="checkbox"] {
     .checklist_item .icon {
         font-size: 18px;
         margin-top: -3px;
-        color: #0da574;
+        color: #419780;
     }
 
 .achievements {
@@ -2282,7 +2282,7 @@ html[dir="rtl"] .quote_header-icon {
 }
 
 .features_header .checklist_item .icon {
-    color: #0da574;
+    color: #419780;
 }
 
 .features_card {
@@ -2619,7 +2619,7 @@ html[dir="rtl"] .quote_header-icon {
 
         .footer_main-block_nav .list-item .link:focus .icon,
         .footer_main-block_nav .list-item .link:hover .icon {
-            color: #0da574;
+            color: #419780;
         }
 
 .footer_secondary {
